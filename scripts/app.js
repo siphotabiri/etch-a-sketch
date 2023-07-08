@@ -10,3 +10,4 @@ function createDivs () {
 for (let index = 0; index < 32 ; index++) {
     createDivs();
 }
+
